@@ -1,0 +1,28 @@
+{
+    "modulesList": [
+        {
+            "_id": "s112dasdasd",
+            "name": "Work",
+            "items": [
+                {
+                    "_id": "item2198id",
+                    "name": "Programming"
+                }
+            ]
+        },
+        {
+            "_id": "s112dasdas21e12",
+            "name": "Sports",
+            "items": [
+                {
+                    "_id": "item3id",
+                    "name": "Football"
+                },
+                {
+                    "_id": "item54id",
+                    "name": "Basketball"
+                }
+            ]
+        }
+    ]
+}
